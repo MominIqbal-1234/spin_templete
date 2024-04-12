@@ -1,0 +1,9 @@
+README.md
+setup.py
+spin_templete/__init__.py
+spin_templete/templete.py
+spin_templete.egg-info/PKG-INFO
+spin_templete.egg-info/SOURCES.txt
+spin_templete.egg-info/dependency_links.txt
+spin_templete.egg-info/requires.txt
+spin_templete.egg-info/top_level.txt
