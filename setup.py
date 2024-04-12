@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 
 VERSION = '0.5'
-DESCRIPTION = "WebRaft is a Python library for creating and reading JSON Web Tokens, extracting user agent information, retrieving IP data, and creating and reading API keys."
+DESCRIPTION = "spin templete is the layer of Spin-python-sdk for render html"
 
 
 # Setting up
@@ -16,19 +16,14 @@ setup(
     long_description="""
     # WebRaft
 
-    creating and reading JSON Web Tokens, extracting user agent
-    information, retrieving IP data, and creating and reading API keys
+    spin templete is the layer of Spin-python-sdk for render html
 
-    # How to install webraft
+    # How to install spin_templete
 
     ```python
-    pip install webraft
+    pip install spin_templete
     ```
-    # Documentation
-    open Github repository for the WebRaft Python library. The link is included in the package's documentation to provide
-    users with access to the source code and additional information about the library.
-    <br>
-    https://github.com/MominIqbal-1234/webraft
+    #
 
 
 
