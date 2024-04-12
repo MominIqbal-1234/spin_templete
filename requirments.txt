@@ -1,0 +1,4 @@
+jinja2
+componentize-py==0.13.2
+spin-sdk==3.0.0
+mypy==1.8.0
