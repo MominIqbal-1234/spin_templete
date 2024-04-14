@@ -1,3 +1,5 @@
+[![Downloads](https://static.pepy.tech/badge/spin_templete)](https://pepy.tech/project/spin_templete)
+
 # What is Spin
 Spin is a framework for building and running event-driven microservice applications with WebAssembly (Wasm) components.
 
@@ -51,7 +53,7 @@ touch index.html
 ### app.py
 ```python
 from spin_sdk.http import IncomingHandler, Request, Response
-from spintemplete.templete import Render
+from spin_templete.templete import Render
 
 
 html = Render("templete")
