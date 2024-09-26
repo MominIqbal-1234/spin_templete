@@ -96,7 +96,7 @@ Developed by : Momin Iqbal
     """,
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    install_requires=["Jinja2==3.1.3","componentize-py==0.13.2","spin-sdk==3.0.0","mypy==1.8.0"],
+    install_requires=["Jinja2==3.1.4","componentize-py==0.13.2","spin-sdk==3.0.0","mypy==1.8.0"],
     keywords=['spin-python-sdk','spin''python', 'python webassembly', 'webassembly', 'webassembly in python','webassembly api','build python webassembly api','python to webassembly'],
     classifiers=[
         "Development Status :: 1 - Planning",
